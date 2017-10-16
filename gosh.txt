@@ -1,1 +1,2 @@
 a test file with some text!
+this is a new idea - crikey!
